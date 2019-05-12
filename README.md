@@ -19,7 +19,7 @@
 <li><a href="http://rem.webcodingplace.com/property/meadow-mension/" rel="nofollow">Single Property Template</a></li>
 <li><a href="http://rem.webcodingplace.com/author/agent02/" rel="nofollow">Agent Profile Template</a></li>
 <li><a href="https://webcodingplace.com/string-translation-in-real-estate-manager/" rel="nofollow">Safely Translate Strings</a></li>
-<li><a href="https://webcodingplace.com/import-property-listings-from-xml-and-csv/" rel="nofollow">Import Property Listings from XML or CSV file</a></li>
+<li><a href="https://kb.webcodingplace.com/real-estate-manager/importer-for-wp-all-import-xml-csv/" rel="nofollow">Import Property Listings from XML or CSV file</a></li>
 <li><a href="https://youtu.be/MeEoNVUGnaI" rel="nofollow">Basic Settings (Video)</a></li>
 <li><a href="https://youtu.be/DKUcG_h9APQ" rel="nofollow">Create Your Own Map Styles (Video)</a></li>
 <li><a href="https://youtu.be/zIZAP9wrrps" rel="nofollow">Use from 15000+ Pre Made Map Styles (Video)</a></li>

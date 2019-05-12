@@ -4,14 +4,14 @@ $plugins_data = array(
 		'title' => 'XML, CSV Importer',
 		'desc' => 'Import property data from XML or CSV file using this addon and WP All Import, easily and free',
 		'class_name' => 'RapidAddon',
-		'button_url' => 'https://wordpress.org/plugins/real-estate-manager-importer-for-wp-all-import/',
+		'button_url' => 'https://github.com/rameezwp/rem-wp-all-import',
 		'plugin_type' => 'free',
 	),
 	array(
 		'title' => 'Export/Import Properties',
 		'desc' => 'Easily export properties with all meta in JSON format and import them on another site. It also imports featured images and gallery data.',
 		'class_name' => 'REM_Export_Import',
-		'button_url' => 'https://wordpress.org/plugins/export-import-real-estate-manager-extension/',
+		'button_url' => 'https://github.com/rameezwp/rem-export-import',
 		'plugin_type' => 'free',
 	),
 	array(
@@ -32,7 +32,7 @@ $plugins_data = array(
 		'title' => 'Google Map Filters',
 		'desc' => 'Display properties on map and let the users search them on map directly. You can also display results in map and page at the same time.',
 		'class_name' => 'REM_Map_Filters',
-		'button_url' => 'https://wordpress.org/plugins/map-filters-real-estate-manager-extension/',
+		'button_url' => 'https://github.com/rameezwp/rem-google-maps',
 		'plugin_type' => 'free',
 	),
 	array(
@@ -46,7 +46,7 @@ $plugins_data = array(
 		'title' => 'Add to Wishlist',
 		'desc' => 'Let the users to add properties to wishlist and display them on a separate page using shortcode. Bulk contact is also available.',
 		'class_name' => 'REM_WISHLIST',
-		'button_url' => 'https://wordpress.org/plugins/wishlist-real-estate-manager-extension',
+		'button_url' => 'https://github.com/rameezwp/rem-wishlist',
 		'plugin_type' => 'free',
 	),
 	array(
@@ -60,7 +60,7 @@ $plugins_data = array(
 		'title' => 'Woo Estato',
 		'desc' => 'A WooCommerce Addon to manage monthly/annually paid subscriptions based on number of properties for agents.',
 		'class_name' => 'REM_WOO_ESTATO',
-		'button_url' => 'http://wordpress.org/plugins/woo-estato',
+		'button_url' => 'https://github.com/rameezwp/woo-estato',
 		'plugin_type' => 'free',
 	),
 	array(
